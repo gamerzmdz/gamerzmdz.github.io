@@ -1,0 +1,137 @@
+.head{
+    border:
+    
+           groove;
+    
+    
+    border-color: 
+    
+                 
+                 green;
+                 
+                 
+    border-width: 
+    
+    
+                 12px;
+                 
+                 
+                 ;
+                 
+                 
+                 
+    text-decoration: 
+    
+    
+                underline;
+    
+    
+    
+    text-align: 
+    
+    
+    
+              center;
+    
+    
+    
+    color: 
+    
+    
+          indigo;
+            
+}
+
+
+
+
+
+
+
+
+
+
+.head:hover{
+border:
+    
+           groove;
+    
+    
+    border-color: 
+    
+                 
+                 indigo;
+                 
+                 
+    border-width: 
+    
+    
+                 12px;
+                 
+                 
+                 ;
+                 
+                 
+                 
+    text-decoration: 
+    
+    
+                overline;
+    
+    
+    
+    text-align: 
+    
+    
+    
+              center;
+    
+    
+    
+    color: 
+    
+    
+          indigo;
+            
+}
+
+
+body {
+    background-image: url('');
+    background-image: width 80px;
+    background: linear-gradient(grey,white,grey);
+}
+
+
+
+
+.main:hover{border:dotted; border-color: grey;border-width: 6px;}
+
+
+
+
+
+
+
+.h3:hover{border: dashed;
+
+
+
+    border-color: grey;
+    
+    
+    
+    border-width: 2px;}
+
+
+.ff{text-align: 
+    
+    
+    
+              center;
+    
+    }
+    
+    
+    
+    .mk{color: red;}
